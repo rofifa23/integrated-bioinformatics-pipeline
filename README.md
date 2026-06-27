@@ -1,5 +1,5 @@
 ﻿# integrated-bioinformatics-pipeline
-# Integrated Bioinformatics Analytics & Pipeline Suite 🧬
+# Integrated Bioinformatics Analytics & Pipeline Suite 
 
 Repositori ini berisi kode program dan dokumentasi teknis untuk *Mini Project* mata kuliah Struktur Data Bioinformatika, Departemen Biokimia, IPB University. Aplikasi ini mengotomasi *pipeline* analisis sekuens asam nukleat mentah hingga visualisasi konformasi spasial makromolekul secara interaktif.
 
