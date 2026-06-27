@@ -1,0 +1,14 @@
+File Sumber,Header ID,Panjang Rantai (bp),GC Content (%),Frekuensi A,Frekuensi T,Frekuensi C,Frekuensi G
+rna IGF1.fasta,NM_001414005.1 IGF1 [organism=Homo sapiens] [GeneID=3479] [transcript=5],979,46.88,344,176,200,259
+rna IGF1.fasta,NM_001414006.1 IGF1 [organism=Homo sapiens] [GeneID=3479] [transcript=6],916,46.83,333,154,192,237
+rna IGF1.fasta,XM_054371951.1 IGF1 [organism=Homo sapiens] [GeneID=3479] [transcript=X1],993,46.83,354,174,201,264
+rna IGF1.fasta,XM_017019259.2 IGF1 [organism=Homo sapiens] [GeneID=3479] [transcript=X1],989,46.81,354,172,199,264
+rna IGF1.fasta,NM_001111285.3 IGF1 [organism=Homo sapiens] [GeneID=3479] [transcript=3],1097,45.21,374,227,228,268
+rna IGF1.fasta,XM_017019262.3 IGF1 [organism=Homo sapiens] [GeneID=3479] [transcript=X2],7218,36.78,2316,2247,1406,1249
+rna IGF1.fasta,XM_054371952.1 IGF1 [organism=Homo sapiens] [GeneID=3479] [transcript=X2],7224,36.77,2318,2250,1407,1249
+rna IGF1.fasta,NM_001414007.1 IGF1 [organism=Homo sapiens] [GeneID=3479] [transcript=7],7159,36.71,2286,2245,1393,1235
+rna IGF1.fasta,XM_017019263.3 IGF1 [organism=Homo sapiens] [GeneID=3479] [transcript=X3],7169,36.71,2296,2241,1392,1240
+rna IGF1.fasta,XM_054371953.1 IGF1 [organism=Homo sapiens] [GeneID=3479] [transcript=X3],7175,36.7,2298,2244,1393,1240
+rna IGF1.fasta,NM_001111283.3 IGF1 [organism=Homo sapiens] [GeneID=3479] [transcript=1],7326,36.69,2336,2302,1435,1253
+rna IGF1.fasta,NM_000618.5 IGF1 [organism=Homo sapiens] [GeneID=3479] [transcript=4],7277,36.62,2316,2296,1421,1244
+rna IGF1.fasta,NM_001111284.2 IGF1 [organism=Homo sapiens] [GeneID=3479] [transcript=2],7096,36.61,2275,2223,1385,1213
